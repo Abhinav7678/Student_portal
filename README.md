@@ -22,15 +22,11 @@ A MERN stack web app for student course enrollment, featuring secure Gmail OTP l
 - **Database:** MongoDB  
 - **Auth:** Gmail-based OTP  
 
-## 🌐 Live Demo
-
-[aims-portal-nine.vercel.app](https://aims-portal-nine.vercel.app)
-
 ## 📦 Setup
 
 ```bash
 # Clone the repo
-git clone https://github.com/arnavb2004/Student_portal
+git clone https://github.com/Abhinav7678/Student_portal.git
 cd Student_portal
 
 # Install backend
